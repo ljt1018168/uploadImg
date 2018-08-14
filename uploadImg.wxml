@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+  <view bindtap="uploads">
+  <text>图片上传</text>
+  </view>
+   <image style="width: 200px; height: 200px; background-color: #eeeeee;" src="{{img}}"></image>
+</view>
